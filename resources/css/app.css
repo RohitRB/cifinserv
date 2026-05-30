@@ -1,0 +1,4 @@
+/* Vite entry — supplemental overrides */
+.site-body main {
+    min-height: 50vh;
+}
