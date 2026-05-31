@@ -35,6 +35,10 @@
             </div>
 
             <div class="footer-compliance">
+                <div class="footer-registrations-badges">
+                    <p>AMFI Registered Mutual Fund &amp; SIF Distributor.</p>
+                    <p>APMI Registered PMS Distributor.</p>
+                </div>
                 <p>Mutual Fund investments are subject to market risks, read all scheme-related documents carefully. Chirag Investcare Finserv LLP is an AMFI Registered Mutual Fund Distributor. The information provided on this website is for educational purposes and should not be construed as guaranteed investment advice.</p>
                 <div class="footer-registrations">
                     <p>AMFI Registered Mutual Funds Distributor | ARN-{{ config('site.amfi_mf.arn') }} | Initial Registration: {{ config('site.amfi_mf.initial') }} | Validity: {{ config('site.amfi_mf.validity') }}</p>
