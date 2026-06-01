@@ -69,7 +69,7 @@
             </div>
             <div class="col-md-6 col-lg-3">
                 <x-service-card
-                    title="Insurance &amp; Risk"
+                    title="Insurance & Risk"
                     description="Life, health, and travel insurance to protect what matters most."
                     icon="bi-shield-check"
                     :url="route('our-services') . '#insurance'"
